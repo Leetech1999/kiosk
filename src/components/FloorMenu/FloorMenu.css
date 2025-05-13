@@ -1,0 +1,5 @@
+.floor-box-wrapper { display: flex; flex-direction: column; align-items: flex-start; padding: 20px; position:absolute; top:110px; right:220px;}
+.floor-box-wrapper button { display: flex; align-items: center; gap: 50px; border: none; background: transparent; cursor: pointer; padding: 0px; }
+.floor-box-wrapper img { width: 180px; height: auto; }
+.floor-box-wrapper span { font-size: 30px; font-weight: bold; color: black; margin-bottom:10px;}
+.floor-box-wrapper .selected-floor { color: #0066ff; }
